@@ -2,13 +2,10 @@
 
 > **Skills demonstrated:** NIST 800-53 · ISO/IEC 27001:2022 · ASD Essential Eight · Risk management · Security controls · Compliance automation · Python scripting
 
-An automated security compliance checking engine that validates system configurations against three major frameworks — **NIST SP 800-53**, **ISO/IEC 27001**, and the **ASD Essential Eight** — and generates executive-ready audit reports. Directly mirrors the skills required by Australian government contractors and UK financial sector security roles.
-
+An automated security compliance checking engine that validates system configurations against three major frameworks — **NIST SP 800-53**, **ISO/IEC 27001**, and the **ASD Essential Eight** — and generates executive-ready audit reports. 
 ---
 
-## 📋 Why This Project
 
-Compliance and risk management are among the **top-cited skills** in Australian/UK visa-sponsored security roles, especially in government, finance, and healthcare sectors:
 
 | Framework | Why It Matters | Regions |
 |---|---|---|
