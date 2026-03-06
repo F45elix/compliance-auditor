@@ -1,0 +1,15 @@
+.env
+.env.*
+*.env
+secrets.json
+config.local.*
+
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+
+reports/
+*.log
